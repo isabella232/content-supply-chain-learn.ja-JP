@@ -1,27 +1,27 @@
 ---
-title: ワークフローと計画 — 作業を合理化し、迅速化
-description: コンテンツの作成と完了を計画するプロセスを通じて、コンテンツ要件の接続と追跡に苦労する企業向けです。 プロジェクト間での効果的なプロセス、計画、承認、データの一貫性が欠如しているため、この企業の生産性と効率性の両方のコンテンツ・サプライ・チェーンが奪われています。
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: ワークフローと計画のチュートリアル
+description: コンテンツのライフサイクル全体にわたって、合理化され、透明性の高いワークフローを構築します。  レビューと承認のプロセスを高速化します。  手動ワークフローを自動化します。
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 26%
+source-wordcount: '446'
+ht-degree: 28%
 
 ---
 
 
-# ワークフローと計画：作業を合理化し、迅速化
+# ワークフローと計画のチュートリアル
 
-これは、企画、実稼働、完了まで、コンテンツ要件の接続と追跡に苦労している企業向けのものです。 プロジェクト間での効果的なプロセス、計画、承認、データの一貫性が欠如しているため、この企業の生産性と効率性の両方のコンテンツ・サプライ・チェーンが奪われています。
+コンテンツのライフサイクル全体にわたって、合理化され、透明性の高いワークフローを構築します。  レビューと承認のプロセスを高速化します。  手動ワークフローを自動化します。
 
-計画とAdobeに使用されるワークフローソリューションは、次のとおりです。
+Adobeと計画に使用されるワークフローソリューションは次のとおりです。
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ ht-degree: 26%
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## プライマリビジネスの使用例
-
-* ワークフローと承認を簡素化
-* 費用とリソースを最適化
-* 容量、プロジェクト、リスク、タイムラインの可視性を向上
-* メタデータのタグ付けなど、下流のプロセスを自動化
+>[!TIP]
+>
+>アドビのAdobe製品エキスパートチームは、主なコンテンツサプライチェーンの使用例に関する統合チュートリアルのコレクションを組み立てました。 複数のソリューションを使用している場合は、統合する最適な方法を学んでください。  以下を確認します。 [コンテンツサプライチェーン統合チュートリアル](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## 推奨コース
 
