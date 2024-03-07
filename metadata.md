@@ -6,8 +6,8 @@ topic: Content Supply Chain
 feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, Experience Manager Sites, Experience Manager Assets, GenStudio
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/content-supply-chain-learn.ja-JP
-hide: true
-source-git-commit: bb9a91a8cb91373dc4a8c47b701b56fcb9a283c0
+index: true
+source-git-commit: 431912c308bc465c127d8f1bb4e89ade13b72277
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
