@@ -1,48 +1,55 @@
 ---
-title: 配信とアクティベーション — パワーエクスペリエンスとパフォーマンス
-description: 適切なチャネルで適切な個人の前に適切なコンテンツを取得するのをサポートする必要がある会社の場合。 コンテンツサプライチェーンは、他のどのソリューションよりも接続を向上させると同時に、全体的なコンテンツのパフォーマンスを確保するための分析も提供します。
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: 配信とアクティベーションのチュートリアル
+description: コンテンツとキャンペーンのパフォーマンスとエクスペリエンスを強化します。  アセットの迅速なアクティベーションとコンテンツのパフォーマンスの向上
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 45%
+source-wordcount: '610'
+ht-degree: 48%
 
 ---
 
 
-# 配信とアクティベーション：パワーエクスペリエンスとパフォーマンス
+# 配信とアクティベーションのチュートリアル
 
-適切なチャネルで適切な個人の前に適切なコンテンツを取得するのをサポートする必要がある会社の場合。 コンテンツサプライチェーンは、他のどのソリューションよりも接続を向上させると同時に、全体的なコンテンツのパフォーマンスを確保するための分析も提供します。
-
-## プライマリビジネスの使用例
-
-* アセットを容易に検索して再利用
-* インパクトの大きいエクスペリエンスを迅速に作成および公開
-* 即座にコピーを生成してテスト
-* チャネルをまたいで、関連性の高いパーソナライズされたエクスペリエンスをデプロイする
+コンテンツとキャンペーンのパフォーマンスとエクスペリエンスを強化します。  アセットの迅速なアクティベーションとコンテンツのパフォーマンスの向上
 
 コンテンツのアクティベーションと分析に使用されるAdobeソリューションは次のとおりです。
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="ターゲット" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Target</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>アドビのAdobe製品エキスパートチームは、主なコンテンツサプライチェーンの使用例に関する統合チュートリアルのコレクションを組み立てました。 複数のソリューションを使用している場合は、統合する最適な方法を学んでください。  以下を確認します。 [コンテンツサプライチェーン統合チュートリアル](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## チュートリアル
 
