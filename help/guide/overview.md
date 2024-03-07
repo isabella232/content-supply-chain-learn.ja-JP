@@ -1,84 +1,30 @@
 ---
 title: Adobeコンテンツサプライチェーン
-description: Adobe・コンテンツ・サプライ・チェーンは、生成 AI とインテリジェントな自動化により、コンテンツ・サプライ・チェーンを迅速かつシンプル化するエンド・ツー・エンドのソリューションです。
-source-git-commit: d5f4c8023e7d7964757ee71557766495d7aca64c
+description: Adobeコンテンツサプライチェーンは、生成 AI とインテリジェントな自動化により、コンテンツサプライチェーンを迅速かつシンプル化するエンドツーエンドのソリューションです。
+source-git-commit: f979dd648619ea01e8bf6f0c4355cb3b707aa239
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
 
-# AdobeコンテンツサプライチェーンTutorials
+# Adobeコンテンツサプライチェーンのチュートリアル
 
->[!BEGINSHADEBOX]
-
-Adobeのコンテンツサプライチェーン用ツールは、Generative AI を使用したコンテンツ作成の拡張、チームの俊敏性と市場投入速度の向上、コンテンツの ROI と効率性の向上をチームに提供することで、組織の実行能力を促進します。
-
->[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
+Adobeのコンテンツサプライチェーン用ツールは、Generative AI を使用したコンテンツ作成の拡張、チームの俊敏性と市場投入速度の向上、コンテンツの ROI と効率性の向上をチームに提供することで、組織の実行能力を高めます。
 
 コンテンツサプライチェーンは、人、ツール、ワークストリームを統合し、コンテンツの効果的な計画、作成、作成、配信、測定をおこないます。 お客様は、より高品質なエクスペリエンスをより高速に要求し、複数のチャネルやフォーマットの複雑さに対応するため、企業はコンテンツに対する考え方を革新させる必要があります。
 
->[!ENDSHADEBOX]
+これらのチュートリアルを通じて、生成 AI の機能を使用してエンドツーエンドのコンテンツ作成と配信プロセスを強化する方法を学びます。
 
-<table>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <img alt="ワークフローと計画" src="./../assets/planning-workflow.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <strong>ワークフローと計画</strong>
-        </a>
-        </div>
-        <p>
-        <em>作業の合理化と統合</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <img alt="クリエイティブの生産性" src="./../assets/creative-productivity.png">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <strong>クリエイティブの生産性</strong>
-        </a>
-        </div>
-        <p>
-        <em>クリエイティブチームの追加</em>
-        <p>
-      </td>
-    </tr>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <img alt="マーケティング機能" src="./../assets/marketing-agility.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <strong>マーケティング機能</strong>
-        </a>
-        </div>
-        <p>
-        <em>マーケターや他のチームが迅速にコンテンツを市場に投入できるようにする</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <img alt="配信とアクティベーション" src="./../assets/content-activation-analytics.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <strong>配信とアクティベーション</strong>
-        </a>
-        </div>
-        <p>
-        <em>配信とパフォーマンスの有効化</em>
-        <p>
-      </td>
-    </tr>
-</table>
+
+* [ワークフローと計画](workflow-and-planning.md)  — 透明で高速で効率的な、接続されたワークフローを構築します。
+* [コンテンツの作成と実稼動](content-creation-and-production.md) - Generative AI を使用してクリエイティブな作業を変換し、大規模なコンテンツのバリエーションを自動化し、マーケターがブランド上のコンテンツを作成できるようにします。
+* [アセット管理](asset-management.md)  — 組織全体で数百万のアセットを一元管理、管理します。
+* [配信とアクティベーション](delivery-and-activation.md) ：カスタマージャーニーのあらゆる段階にわたってコンテンツをシームレスに配信します。
+* *レポートとインサイト*  — コンテンツの使用とパフォーマンスを向上させ、コンテンツの ROI を向上させます。
+
+<!-- * [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## その他のリソース
 
