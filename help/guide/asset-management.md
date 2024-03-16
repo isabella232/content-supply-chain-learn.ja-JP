@@ -9,7 +9,7 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 17%
@@ -27,6 +27,7 @@ ht-degree: 17%
 >アドビのAdobe製品エキスパートチームは、主なコンテンツサプライチェーンの使用例に関する統合チュートリアルのコレクションを組み立てました。 複数のソリューションを使用している場合は、統合する最適な方法を学んでください。  以下を確認します。 [コンテンツサプライチェーン統合チュートリアル](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## 推奨コース
+
 <div class="columns is-multiline">
   <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="[AEM Assets - Assets View] Bulk Import - Feature Video" tabIndex="0">
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
